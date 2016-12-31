@@ -1,0 +1,17 @@
+{
+  "name": "wundernut-five",
+  "version": "0.0.0",
+  "description": "Decoding Wundernut no. 5",
+  "author": "Brandon Semilla (https://github.com/semibran)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/semibran/wundernut-five.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "budo index.js --open --live --port 3000 --live-port 3001"
+  },
+  "devDependencies": {
+    "budo": "^9.3.0"
+  }
+}
